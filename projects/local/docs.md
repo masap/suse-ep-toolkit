@@ -6,7 +6,7 @@
 | <a name="requirement_http"></a> [http](#requirement\_http) | 3.5.0 |
 | <a name="requirement_kubernetes"></a> [kubernetes](#requirement\_kubernetes) | 3.1.0 |
 | <a name="requirement_rancher2"></a> [rancher2](#requirement\_rancher2) | 14.1.0 |
-| <a name="requirement_ssh"></a> [ssh](#requirement\_ssh) | 2.7.0 |
+| <a name="requirement_ssh"></a> [ssh](#requirement\_ssh) | 2.9.0 |
 
 ## Providers
 
